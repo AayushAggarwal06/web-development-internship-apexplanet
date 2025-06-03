@@ -44,15 +44,15 @@ This repository contains all the tasks and projects I completed during my **45-d
 ## 📁 Folder Structure
 
 web-development-internship-apexplanet/
-├── Task-1/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── README.md
-├── Task-2/
-│ └── (upcoming files...)
-├── ...
-└── README.md 
+-├── Task-1/
+-│ ├── index.html
+-│ ├── style.css
+-│ ├── script.js
+-│ └── README.md
+-├── Task-2/
+-│ └── (upcoming files...)
+-├── ...
+-└── README.md 
 
 ---
 
