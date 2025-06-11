@@ -47,7 +47,7 @@ To create a basic webpage using foundational concepts of **HTML**, **CSS**, and 
 
 ## 🚀 Live Preview:
 
-👉 [Click here to view the live project](https://your-username.github.io/web-development-internship-apexplanet/Task-1/)
+👉 [Click here to view the live project](https://AayushAggarwal06.github.io/web-development-internship-apexplanet/Task-1/)
 
 ---
 
