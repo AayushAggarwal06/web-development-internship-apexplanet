@@ -1,17 +1,40 @@
-# 📬 Contact Form – Task 2.1
+# 📄 Task 2: Intermediate HTML, CSS, and JavaScript
 
-## 🚀 What’s inside?
+**Web Development Internship – ApexPlanet Software Pvt. Ltd.**
 
-A simple contact form built with HTML and styled using CSS. Includes basic JavaScript functionality for form submission feedback.
+This task focuses on improving web development skills by building a responsive **Contact Form** with JavaScript-based validation.
 
-## 📂 Files
+---
 
-- `index.html`: Markup for the form
-- `style.css`: Styles the form and layout
-- `script.js`: Handles form submission feedback
+## 📌 Task Overview
 
-## ✅ Features
+**Objective:**  
+Enhance HTML, CSS, and JavaScript fundamentals by building a real-world contact form interface.
 
-- Responsive form layout
-- Styled with Flexbox
-- JavaScript success message on submission
+**Deliverables:**
+
+- ✅ HTML Contact Form
+- ✅ CSS Styling
+- ✅ JavaScript Form Validation
+- ✅ Responsive Layout (Flexbox/Media Query – upcoming)
+- ⏳ DOM Project: To-Do List or Image Gallery (upcoming)
+
+---
+
+## 🧱 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+## ✨ Features Implemented
+
+- Fully designed contact form (First Name, Last Name, Email, Message)
+- JavaScript validation for:
+  - Empty fields
+  - Email format using regex
+- Live error messages & success response
+- Clean and readable UI
+- Basic responsiveness (mobile-friendly width)
