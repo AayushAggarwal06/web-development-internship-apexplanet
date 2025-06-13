@@ -1,40 +1,37 @@
-# 📄 Task 2: Intermediate HTML, CSS, and JavaScript
+# 📬 Contact Form with Validation & Responsive Layout
 
-**Web Development Internship – ApexPlanet Software Pvt. Ltd.**
-
-This task focuses on improving web development skills by building a responsive **Contact Form** with JavaScript-based validation.
-
----
-
-## 📌 Task Overview
-
-**Objective:**  
-Enhance HTML, CSS, and JavaScript fundamentals by building a real-world contact form interface.
-
-**Deliverables:**
-
-- ✅ HTML Contact Form
-- ✅ CSS Styling
-- ✅ JavaScript Form Validation
-- ✅ Responsive Layout (Flexbox/Media Query – upcoming)
-- ⏳ DOM Project: To-Do List or Image Gallery (upcoming)
+This mini-project is a part of **Task 2** of my [ApexPlanet Web Development Internship](https://github.com/AayushAggarwal06/web-development-internship-apexplanet).  
+It covers form creation, input validation using JavaScript, and a responsive layout using Flexbox and media queries.
 
 ---
 
-## 🧱 Tech Stack
+## 🛠️ Features
+
+- 📑 Input fields: First Name, Last Name, Email, and Message
+- ✅ Client-side JavaScript validation for:
+  - Empty fields
+  - Valid email format
+- 📱 Responsive layout using Flexbox and media queries
+- 🎨 Clean UI with user-friendly error and success messages
+
+---
+
+## 🧪 Live Demo
+
+🔗 [Live Preview](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/contact-form/)
+
+---
+
+## 🧰 Tech Stack
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- CSS3 (Flexbox + Media Queries)
+- JavaScript (DOM Manipulation + Validation)
 
 ---
 
-## ✨ Features Implemented
-
-- Fully designed contact form (First Name, Last Name, Email, Message)
-- JavaScript validation for:
-  - Empty fields
-  - Email format using regex
-- Live error messages & success response
-- Clean and readable UI
-- Basic responsiveness (mobile-friendly width)
+## 📌 Internship Milestone  
+This project fulfills the following parts of **Task 2**:
+- ✅ Mini Task 1: Contact form creation using HTML & CSS  
+- ✅ Mini Task 2: Form validation with JavaScript  
+- ✅ Mini Task 3: Responsive design with Flexbox and media queries
