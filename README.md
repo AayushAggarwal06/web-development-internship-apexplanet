@@ -15,44 +15,45 @@ This repository contains all the tasks and projects I completed during my **45-d
 
 ## 📚 Tasks Breakdown
 
-| Task No. | Title                              | Description                                 | Status |
-|----------|------------------------------------|---------------------------------------------|--------|
-| Task 1   | Basics of Web Development          | HTML structure, CSS styling & JS interactivity | ✅ Completed |
-| Task 2   | Intermediate HTML, CSS & JavaScript| Forms, validation, flex/grid, dynamic content | 🔄 In Progress |
-| Task 3   | Advanced Styling and JavaScript    | Media queries, carousel/quiz, fetch API      | ⏳ Pending |
-| Task 4   | Full Project Implementation        | Portfolio, localStorage app, product filter  | ⏳ Pending |
-| Task 5   | Final Project and Optimization     | Capstone, performance, cross-browser testing | ⏳ Pending |
+| Task No. | Title                              | Description                                                   | Status        |
+|----------|------------------------------------|---------------------------------------------------------------|---------------|
+| Task 1   | Basics of Web Development          | HTML structure, CSS styling & JS interactivity                | ✅ Completed  |
+| Task 2   | Intermediate HTML, CSS & JavaScript| Contact form, validation, responsive layout, To-Do App        | ✅ Completed  |
+| Task 3   | Advanced Styling and JavaScript    | Media queries, carousel/quiz, fetch API                       | ⏳ Pending    |
+| Task 4   | Full Project Implementation        | Portfolio, localStorage app, product filter                   | ⏳ Pending    |
+| Task 5   | Final Project and Optimization     | Capstone project, performance optimization, browser testing   | ⏳ Pending    |
 
 ---
 
-## 🔗 Live Preview (from Tasks)
+## 🔗 Live Previews
 
-- [Task 1 – Basic Web Page](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-1/) ✅  
-  *(Includes HTML, CSS, JS Alert Button – responsive with mobile support)*
+- ✅ [Task 1 – Basic Web Page](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-1/)
+- ✅ [Task 2 – Contact Form](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/contact-form/)
+- ✅ [Task 2 – To-Do App](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/todo-app/)
 
 ---
 
 ## 🛠 Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla)
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (DOM, Validation, Interactivity)
 - Git & GitHub
 
 ---
 
 ## 🙋‍♂️ About Me
 
-👨‍💻 Aayush Aggarwal  
-🎓 MCA Student at GJUS&T, Hisar  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/aayushaggarwal06/)  
-📂 [GitHub Profile](https://github.com/AayushAggarwal06)
+👨‍💻 **Aayush Aggarwal**  
+🎓 MCA Student @ GJUS&T, Hisar  
+🔗 [LinkedIn](https://www.linkedin.com/in/aayushaggarwal06/)  
+📁 [GitHub](https://github.com/AayushAggarwal06)
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect or discuss via:
+Feel free to connect or discuss:
 
 - 📧 [info@apexplanet.in](mailto:info@apexplanet.in)
 - 📞 +91 9905879870
@@ -61,6 +62,6 @@ Feel free to connect or discuss via:
 
 ## 🌟 Acknowledgements
 
-Thanks to **ApexPlanet Software Pvt. Ltd.** for this internship opportunity and structured guidance through real-world projects.
+Special thanks to **ApexPlanet Software Pvt. Ltd.** for this guided learning opportunity through real-world web development projects.
 
 ---
