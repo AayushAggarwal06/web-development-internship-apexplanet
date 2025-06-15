@@ -1,29 +1,40 @@
-# 🚀 Task 2 – Intermediate HTML, CSS, and JavaScript
+# 🚀 Task-2: Intermediate HTML, CSS, and JavaScript
 
-This task is part of the **Web Development Internship** at **ApexPlanet Software Pvt. Ltd.**.  
-The objective of this task is to enhance core frontend skills by building practical mini-projects involving HTML forms, validation, responsive layouts, and DOM-based interactivity.
-
----
-
-## 📌 Sub-Tasks Breakdown
-
-| Mini Task | Description                                                                 |
-|-----------|-----------------------------------------------------------------------------|
-| ✅ 1       | Create a Contact Form using HTML and CSS                                   |
-| ✅ 2       | Add JavaScript-based Form Validation                                        |
-| ✅ 3       | Implement a Responsive Layout using Flexbox and Media Queries              |
-| 🔜 4       | Build a Dynamic To-Do App or Image Gallery using JavaScript (DOM manipulation) |
+This task is part of the **Web Development Internship** at **Apex Planet Software Pvt. Ltd.** and focuses on enhancing frontend development skills with intermediate-level HTML, CSS, and JavaScript — including DOM manipulation and responsive design.
 
 ---
 
-## 🔧 Tech Used
+## ✅ Sub-Tasks Completed
 
-- **HTML5**  
-- **CSS3** (Flexbox, Grid, Media Queries)  
-- **JavaScript** (DOM Manipulation, Validation)
+### 1️⃣ [Contact Form with Validation](./contact-form)
+
+📌 A responsive contact form with JavaScript-based input validation.
+
+- Inputs for First Name, Last Name, Email, and Message
+- Real-time validation with custom error messages
+- Responsive design using media queries
+- Clean and structured UI layout
+
+🔗 [Live Preview](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/contact-form)
 
 ---
 
-## 📌 Internship Milestone  
-This folder represents **Task 2** of the [Web Development Internship at ApexPlanet](https://apexplanet.in), focusing on practical frontend web development skills.
+### 2️⃣ [To-Do List App](./todo-app)
 
+📌 A dynamic to-do list that uses DOM manipulation to add and remove tasks.
+
+- Add and delete tasks
+- Simple and intuitive UI
+- Responsive layout for mobile and desktop
+- Focused on JavaScript DOM concepts
+
+🔗 [Live Preview](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/todo-app)
+
+---
+
+## 🧠 What I Learned
+
+- Creating responsive layouts using Flexbox, Grid, and media queries
+- Validating form input using JavaScript
+- DOM manipulation for real-time interactivity
+- Structuring multi-feature tasks across modular folders
