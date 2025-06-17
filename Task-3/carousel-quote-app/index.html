@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carousel & Weather App</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1>🌠 Image Carousel + Weather App</h1>
+
+        <!-- Carousel Section -->
+        <section class="carousel-section">
+            <h2>📷 Image Carousel</h2>
+            <div class="carousel-wrapper">
+                <button id="prevBtn">⬅️</button>
+                <div class="carousel-track" id="carouselTrack"></div>
+                <button id="nextBtn">➡️</button>
+            </div>
+        </section>
+
+        <!-- Weather Section -->
+        <section class="weather-section">
+            <h2>⛅ Weather Info</h2>
+            <input type="text" id="cityInput" placeholder="Enter City Name..." />
+            <button id="getWeatherBtn">Get Weather</button>
+            <div id="weatherResult"></div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
