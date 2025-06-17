@@ -32,7 +32,7 @@ It combines an engaging **image carousel** with a real-time **weather fetcher**,
 
 ## 🔗 Live Preview
 
-👉 [Click Here to View Live Project](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/carousel-weather/)
+👉 [Click Here to View Live Project](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-3/)
 
 ---
 
