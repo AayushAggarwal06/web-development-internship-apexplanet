@@ -3,7 +3,7 @@
 > **Duration:** 45 Days  
 > **Tech Stack:** HTML, CSS, JavaScript  
 > **Internship Mode:** Remote  
-> **Status:** 🟢 Ongoing
+> **Status:** ✅ Completed
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains all the tasks and sub-projects completed during my **45
 | **Task 2** | Intermediate HTML, CSS & JS        | Contact form, validation, flex/grid, localStorage to-do app   | ✅ Completed  | [Preview 🌐](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-2/) |
 | **Task 3** | Advanced Styling + JS + API        | Responsive Image Carousel + Weather API Integration           | ✅ Completed  | [Preview 🌐](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-3/) |
 | **Task 4** | Full Project Implementation        | Portfolio site, To-Do App (localStorage), Product Listing     | ✅ Completed  | [Preview 🌐](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-4/) |
-| **Task 5** | Final Project & Optimization       | Full-stack project, performance, responsiveness               | ⏳ Pending    | Coming Soon... |
+| **Task 5** | Final Project & Optimization       | Fully optimized final capstone: Bookera – The Era of Books    | ✅ Completed  | [Preview 🌐](https://aayushaggarwal06.github.io/web-development-internship-apexplanet/Task-5/) |
 
 ---
 
